@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.7.1)
+  - LTMorphingLabel (0.9.3)
+  - Masonry (1.1.0)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - Alamofire (= 5.7.1)
+  - LTMorphingLabel
+  - Masonry (= 1.1.0)
+  - SnapKit (= 5.6.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - LTMorphingLabel
+    - Masonry
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  LTMorphingLabel: f2b256e4fe665aac27f0d0e8ccdcd79590f0cd70
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: ae6702bb2e3ff28c9ebdfa760d43188b3242edb9
+
+COCOAPODS: 1.12.1
